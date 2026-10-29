@@ -11,10 +11,10 @@
 
 | Nombre completo | Matrícula |
 |:---:|:---:|
-| Mariano Hernández Antuñano | 198549-5 |
-| Javier Emilio Aranda Espinoza | 198581-9 |
-| Alexa Gonzalez Del Castillo Torres | 198373-0 |
-| Paola Bocanegra Tellez | 198088-1 |
+| Mariano Hernández Antuñano |  |
+| Javier Emilio Aranda Espinoza |  |
+| Alexa Gonzalez Del Castillo Torres |  |
+| Paola Bocanegra Tellez |  |
 
 ## 1. Caso de uso
 
@@ -61,5 +61,5 @@ $$
 
 
 
-![[MODELCARD.png]]
+![Boceto de la aplicación](MODELCARD.png)
 
