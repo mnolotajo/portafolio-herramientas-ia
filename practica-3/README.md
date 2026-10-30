@@ -63,5 +63,4 @@ $$
 
 ![Boceto de la aplicación](MODELCARD.png)
 
-## Practicas
-[Practica 3: README del proyecto](practica-3/README.md)
+
