@@ -1,4 +1,4 @@
-# Portafolio de mariano
+# Portafolio de Mariano Hernández Antuñano
 Herramientas de Procesamiento para IA · Grupo A · Ibero León · Otoño 2026
 ## Sobre mí
 Estudio Ingeniería en IA y me interesa la **música**.
